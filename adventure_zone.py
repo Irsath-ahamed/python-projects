@@ -2,7 +2,7 @@ name = input('type your name: ')
 print('welcome', name ,'to this adventures..!!')
 
 answer=input(
-    'you are in dirty road. and it has come to end. now make (right/left): ')
+    'you are in perfect road. and it has come to end. now make (right/left): ')
 
 if answer == 'left':
     answer= input(
